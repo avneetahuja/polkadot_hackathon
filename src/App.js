@@ -18,7 +18,7 @@ function App() {
         <h3 className="heading-text">Please wait loading the game..</h3>
       )}
       <Unity
-        style={{ height: 500, width: 900 }}
+        style={{ height: 900, width: 1500 }}
         unityProvider={unityProvider}
       />
     </div>
