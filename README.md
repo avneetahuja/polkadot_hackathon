@@ -1,5 +1,7 @@
 # Indie Racer
 
+## BACKEND REPO: https://github.com/Indie-Racer-Polkadot/unique-racing-api
+
 Our project employs a sophisticated tech stack that harnesses the power of blockchain technology, particularly focusing on Polkadot and its parachains, to deliver an advanced gaming experience. At the core of our architecture is Unity, a versatile game development platform that was used to create and export the game to the web, integrating seamlessly with React for a responsive and interactive user interface. The wallet connection is facilitated through Unique Network, a specialized parachain on the Polkadot ecosystem, which offers robust and secure authentication mechanisms.
 
 Polkadot's unique features, such as interoperability and shared security, played a pivotal role in our project's development. By utilizing Unique Network, we leveraged its dedicated NFT capabilities, which are optimized for creating and managing non-fungible tokens. This parachain's customizability allowed us to tailor the NFT features to align perfectly with our game's requirements, ensuring that each NFT is a dynamic and accurate reflection of a player's in-game progress.
