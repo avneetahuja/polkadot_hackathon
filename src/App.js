@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="game-container">
       {isLoaded ? (
-        <h3 className="heading-text">React Unity Sample 😎</h3>
+        <h3 className="heading-text">Indie Racer</h3>
       ) : (
         <h3 className="heading-text">Please wait loading the game..</h3>
       )}
